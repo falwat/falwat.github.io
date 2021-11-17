@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Jackie Wang 的主页
 
-You can use the [editor on GitHub](https://github.com/falwat/falwat.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 我的个人笔记本
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [matlab and octave](./notebook/octave/octave.md)
+- github
+  - [创建个人主页](./notebook/git/github_pages.md)
+- [Jekyll](./notebook/jekyll/index.md)
+- linux
+  - [Windows Subsystem Linux](./notebook/linux/windows_subsystem_linux.md)
+- [python](./notebook/python/index.md)
+  - [anaconda](./notebook/python/anaconda.md)
+    - [设置国内镜像源](./notebook/python/anaconda.md/#设置国内镜像源)
+  - [numpy](./notebook/python/numpy.md)
+    - [多维数组降维](./notebook/python/numpy.md/#多维数组降维)
+    - [多维数组增维](./notebook/python/numpy.md/#多维数组增维)
+  - [tensorflow](./notebook/python/tensorflow.md)
+    - [安装Tensorflow](./notebook/python/tensorflow.md/#安装Tensorflow)
+    - [保存模型](./notebook/python/tensorflow.md/#保存模型)
+- vscode
+  - [版本控制](./notebook/vscode/Using_Version_Control_in_VS_Code.md)
+- xilinx
+  - vivado
+    - [综合](./notebook/xilinx/vivado/ug901-synthesis.md)
+- [常用软件及下载链接](./software.md)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 我的开源项目
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/falwat/falwat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [多相滤波数字信道化的Python实现](https://github.com/falwat/polyphase)
