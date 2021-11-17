@@ -22,7 +22,7 @@
 - xilinx
   - vivado
     - [综合](./notebook/xilinx/vivado/ug901-synthesis.md)
-- [常用软件及下载链接](./software.md)
+- [常用软件及下载链接](./notebook/software.md)
 
 
 ## 我的开源项目
