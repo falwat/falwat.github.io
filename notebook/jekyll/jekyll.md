@@ -39,3 +39,44 @@ bundle exec jekyll serve
 
 
 > 参考: [Command Line Usage](https://jekyllrb.com/docs/usage/) 
+
+## 在Windows上安装Jekyll
+
+> 参考: [Jekyll on Windows](https://jekyllrb.com/docs/installation/windows/)
+
+### Installing Ruby and Jekyll
+
+...
+
+### Installation via Bash on Windows 10
+
+- 打开`wsl`
+
+```sh
+sudo apt-get update -y && sudo apt-get upgrade -y
+```
+
+- 安装ruby
+  
+```sh
+sudo apt-add-repository ppa:brightbox/ruby-ng
+sudo apt-get update
+sudo apt-get install ruby2.5 ruby2.5-dev build-essential dh-autoreconf
+```
+
+- 更新 Ruby gems
+
+```sh
+gem update
+```
+- 安装 Jekyll
+
+```sh
+sudo gem install jekyll bundler
+```
+
+- 测试
+
+```sh
+jekyll -v
+```
