@@ -4,6 +4,7 @@
   - [Anaconda](https://www.anaconda.com/products/individual)
   - [CMake](https://cmake.org/download/)
   - [Node.js](https://nodejs.org/en/)
+  - [Qt](https://www.qt.io/download) : ([清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/qt/official_releases/qt))
   - [Visual Studio](https://msdn.itellyou.cn/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -18,6 +19,10 @@
 - 工具
   - [7-Zip](https://www.7-zip.org/) : 压缩/解压工具
   - [MD5sums for Windows](http://www.pc-tools.net/win32/md5sums/): 文件的md5校验和计算工具
+  - [FileZilla Client](https://filezilla-project.org/download.php?type=client) : FTP 客户端
+  - [FileZilla Server](https://filezilla-project.org/download.php?type=server) : FTP 服务器
+  - [Space Sniffer](https://spacesniffer.en.softonic.com/) : An easy-to-use disk cleanup software
+  - [SQLiteStudio](https://sqlitestudio.pl/)
   - [有道词典](http://www.youdao.com/)
   - [百度网盘](https://pan.baidu.com)
   - [迅雷](https://www.xunlei.com/)
