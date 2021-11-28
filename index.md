@@ -1,5 +1,6 @@
 # 我的博客
 
+- [基于多相滤波器的数字信道化算法详解](./blog/polyphase_filter_channelizer.md)
 
 
 # 我的个人笔记本
@@ -7,12 +8,12 @@
 - github
   - [创建个人主页](./notebook/git/github_pages.md)
 - [Jekyll](./notebook/jekyll/jekyll.md)
+- [Latex](./notebook/latex/latex.md)
+- linux
+  - [Windows Subsystem Linux](./notebook/linux/windows_subsystem_linux.md)
 - [Mermaid](./notebook/mermaid/mermaid.md)
   - [流程图](./notebook/mermaid/flowchart.md)
 - [matlab/octave](./notebook/octave/octave.md)
-
-- linux
-  - [Windows Subsystem Linux](./notebook/linux/windows_subsystem_linux.md)
 - [python](./notebook/python/index.md)
   - [anaconda](./notebook/python/anaconda.md)
     - [设置国内镜像源](./notebook/python/anaconda.md/#设置国内镜像源)
