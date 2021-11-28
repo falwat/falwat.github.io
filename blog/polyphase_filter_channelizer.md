@@ -30,7 +30,7 @@ $$ H(z) = \sum_{r = 0}^{K-1}(E_r(z^K)z^{-r} \tag{3}$$
 
 传统数字信道化结构中, 第$k$路信道的实现框图如下图所示. 信号经过滤波后, 与复指数信号$e^{-2j\pi kn/K}$相乘, 实现正交下变频到基带信号. 其中, 滤波器$h_k(n)$的系统函数$H_k(z)$可表示为$h_k(n)=h_0(n)e^{2j\pi kn/K}$, $h_0(n)$为低通原型滤波器.
 
-![digital_channelized_structure.png](.\image\digital_channelized_structure.png)
+![digital_channelized_structure.png](./image/polyphase_filter_channelizer.png)
 
 令$w_k = -2\pi k/K$,则复数乘法器的输出$v_k(n)$可表示为
 
