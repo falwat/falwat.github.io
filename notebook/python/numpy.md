@@ -1,6 +1,18 @@
 # Numpy Notebook
 
+## 导入numpy
 
+```py
+import numpy as np
+```
+
+## 数据类型转换(astype)
+
+```py
+a = np.array([[1,2,3],[4,5,6]])
+print(a.dtype)
+a.astype('float32')
+```
 
 ## 多维数组降维
 
