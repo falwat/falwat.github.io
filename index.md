@@ -5,9 +5,13 @@
 
 # 我的个人笔记本
 
+- cmake
+  - [cmake](notebook/cmake/cmake.md)
 - github
   - [创建个人主页](./notebook/git/github_pages.md)
-- [Jekyll](./notebook/jekyll/jekyll.md)
+- Jekyll
+  - [jekyll 的配置文件(_config.yml)](./notebook/jekyll/jekyll_config.md)
+  - [Jekyll](./notebook/jekyll/jekyll.md)
 - [Latex](./notebook/latex/latex.md)
 - linux
   - [Windows Subsystem Linux](./notebook/linux/windows_subsystem_linux.md)
@@ -15,8 +19,11 @@
   - [流程图](./notebook/mermaid/flowchart.md)
 - [matlab/octave](./notebook/octave/octave.md)
 - [python](./notebook/python/index.md)
+  - [tkinter](./notebook/python/tkinter/index.md)
   - [anaconda](./notebook/python/anaconda.md)
     - [设置国内镜像源](./notebook/python/anaconda.md/#设置国内镜像源)
+  - [Python 编码规范](./notebook/python/coding_style_with_python.md)
+  - [docx](./notebook/python/docx.ipynb)
   - [numpy](./notebook/python/numpy.md)
     - [多维数组降维](./notebook/python/numpy.md/#多维数组降维)
     - [多维数组增维](./notebook/python/numpy.md/#多维数组增维)
